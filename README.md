@@ -1,0 +1,2 @@
+# .github
+Wetfish Project Management
